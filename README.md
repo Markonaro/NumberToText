@@ -1,7 +1,7 @@
 # NumberToText
 
 	
-I know this post is kind of old, but I recently came up with my own solution and figured it might be worth sharing. The primary function numToWords takes any Integer between 1 and 9999 (inclusive) and outputs its corresponding English words, followed by the String of digits in parenthesis.
+The primary function numToWords takes any Integer between 1 and 9999 (inclusive) and outputs its corresponding English words, followed by the String of digits in parenthesis.
 
 Example: If Integer x = 2614;, numToText(x); returns "Two Thousand Six Hundred Fourteen (2614)":
 
